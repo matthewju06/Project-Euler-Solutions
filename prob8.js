@@ -6,7 +6,7 @@ let thousandDigit = "73167176531330624919225119674426574742355349194934969835203
 let newAdjacentProduct;
 let largestAdjacentProduct = 0
 
-for(let firstSub = 0;firstSub <= 987; firstSub++){
+for(let firstSub = 0; firstSub <= 987; firstSub++){
   newAdjacentProduct = 1
   for(let i = 0; i < 13; i++){
     let numStr = thousandDigit.substring(firstSub + i, firstSub + 1 + i) // make this an integer
