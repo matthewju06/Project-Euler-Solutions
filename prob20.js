@@ -1,7 +1,5 @@
 // https://projecteuler.net/problem=20
-
 let sum = 0;
-
 let bigNum = 1n;
 
 // 100 factorial

@@ -1,9 +1,8 @@
 // https://projecteuler.net/problem=17
-
 const numStr = ["null", "one", "two", "three", "four", "five", "six", "seven", "eight",
  "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen",
   "eighteen", "nineteen"];
-
+  
 const numStrTens = ["null", "null", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty",
 "ninety"];
 

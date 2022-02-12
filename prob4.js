@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=4
-
 let firstNumber = 100;
 let secondNumber = 100;
 let product;

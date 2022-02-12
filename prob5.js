@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=5
-
 let currentNumber = 1;
 let dividend;
 let dividendStatus = false;

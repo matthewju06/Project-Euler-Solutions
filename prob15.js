@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=15
-
 let array =[];
 
 //21x21 2D array to represent grid 

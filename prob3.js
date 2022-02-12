@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=3
-
 let possible;
 let correct;
 

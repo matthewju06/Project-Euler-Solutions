@@ -1,6 +1,4 @@
 // https://projecteuler.net/problem=7
-
-
 let primeNum = 2;
 let currentNum = 5;
 let primeCount = 0;

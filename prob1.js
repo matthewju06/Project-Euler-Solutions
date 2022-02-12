@@ -1,11 +1,8 @@
 // https://projecteuler.net/problem=1
-
 let sum = 0;
 let dividend = 1;
-
 let secondSum = 0;
 let secondDividend = 0;
-
 
 while(dividend < 1000){
   if(dividend % 3 === 0){

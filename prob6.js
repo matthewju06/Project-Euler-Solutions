@@ -1,6 +1,4 @@
 // https://projecteuler.net/problem=6
-
-
 let sum1 = 0;
 let difference;
 

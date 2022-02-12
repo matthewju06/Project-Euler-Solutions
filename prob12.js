@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=12
-
 let currentNum = 1;
 let nextNum = 2;
 let largestDivCount = 0;

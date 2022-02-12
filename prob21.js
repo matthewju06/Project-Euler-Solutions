@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=21
-
 let sum = 0;
 
 for(let numA = 1; numA < 10000; numA++){
