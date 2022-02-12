@@ -1,6 +1,8 @@
+// https://projecteuler.net/problem=2
+
 let sumEvens = 0;
-let previousNumberSmall = 1
-let previousNumberBig = 2
+let previousNumberSmall = 1;
+let previousNumberBig = 2;
 let current = 0;
 
 while(current < 4000000){

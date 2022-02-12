@@ -1,6 +1,9 @@
+// https://projecteuler.net/problem=7
+
+
 let primeNum = 2;
-let currentNum = 5
-let primeCount = 0
+let currentNum = 5;
+let primeCount = 0;
 
 
 while(primeCount < 9999){
@@ -15,7 +18,7 @@ while(primeCount < 9999){
       primeNum = currentNum;
       console.log(primeCount);
   }
-  currentNum++
+  currentNum++;
 }
 
 console.log(primeNum);

@@ -1,3 +1,5 @@
+// https://projecteuler.net/problem=10
+
 let sum = 0;
 
 for(let currentNum = 2; currentNum < 2000000; currentNum++){
