@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=1
+// Completed 12/29/2021
+
 let sum = 0;
 let dividend = 1;
 let secondSum = 0;

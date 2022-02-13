@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=10
+// Completed 12/31/2021
+
 let sum = 0;
 
 for(let currentNum = 2; currentNum < 2000000; currentNum++){

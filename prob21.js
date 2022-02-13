@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=21
+// Completed 2/12/2022
+
 let sum = 0;
 
 for(let numA = 1; numA < 10000; numA++){

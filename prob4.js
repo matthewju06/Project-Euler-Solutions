@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=4
+// Completed 12/29/2021
+
 let firstNumber = 100;
 let secondNumber = 100;
 let product;

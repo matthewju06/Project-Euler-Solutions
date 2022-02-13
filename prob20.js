@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=20
+// Completed 2/6/2022
+
 let sum = 0;
 let bigNum = 1n;
 

@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=15
+// Completed 1/30/2022
+
 let array =[];
 
 //21x21 2D array to represent grid 

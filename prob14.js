@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=14
+// Completed 1/4/2022
+
 let newNum = 0;;
 let largestChain = 0;
 let largestNum = 0;

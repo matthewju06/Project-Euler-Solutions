@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=9
+// Completed 12/29/2021
+
 let product;
 
 for(let c = 0; c <= 1000; c++){

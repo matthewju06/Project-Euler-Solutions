@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=5
+// Completed 12/29/2021
+
 let currentNumber = 1;
 let dividend;
 let dividendStatus = false;

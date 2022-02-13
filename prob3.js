@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=3
+// Completed 12/24/2021
+
 let possible;
 let correct;
 

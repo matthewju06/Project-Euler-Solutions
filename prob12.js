@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=12
+// Completed 1/2/2022
+
 let currentNum = 1;
 let nextNum = 2;
 let largestDivCount = 0;

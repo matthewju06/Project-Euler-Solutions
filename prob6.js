@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=6
+// Completed 12/24/2021
+
 let sum1 = 0;
 let difference;
 

@@ -1,4 +1,6 @@
 // https://projecteuler.net/problem=16
+// Completed 1/5/2022
+
 //2^1000 as big int so complete integer is displayed
 let num = 2n ** 1000n;
 
