@@ -1,12 +1,19 @@
-let num = 2n ** 1000n //2^1000 as big int so complete integer is displayed
-let numStr = num.toString() //Converting num to string format so substring can be used in loop below
+// https://projecteuler.net/problem=16
+// Completed 1/5/2022
+
+//2^1000 as big int so complete integer is displayed
+let num = 2n ** 1000n;
+
+//Converting num to string format for substring use
+let numStr = num.toString();
 let sum = 0;
 
 for(let i = 0; i < numStr.length; i++){
-    let temp = parseInt(numStr.substring(i,i+1)) //Getting individual digits and converting back to integer
-    sum += temp //Adding individual digits together
+    //Getting individual digits
+    let temp = parseInt(numStr.substring(i,i+1))
+
+    //Adding individual digits to sum
+    sum += temp;
 }
 
-str = sum.toString()
-
-console.log(str);
+console.log(sum);
