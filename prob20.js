@@ -1,4 +1,3 @@
-
 // https://projecteuler.net/problem=20
 // Completed 2/6/2022
 
