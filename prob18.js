@@ -16,8 +16,6 @@ for(let i = 0; i < 15; i++){
     list.splice(0,i+1);
 }
 
-let sum = 0;
-
 // Going from bottom up to find the largest sum path
 // More efficient then brute force
 for(let i = 13; i >= 0; i--){
@@ -27,7 +25,6 @@ for(let i = 13; i >= 0; i--){
 
         if(adjacent1 >= adjacent2){
             array[i][j] += adjacent1;
-
         } else {
             array[i][j] += adjacent2;
         }
