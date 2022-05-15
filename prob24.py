@@ -1,3 +1,6 @@
+# https://projecteuler.net/problem=24
+# Completed 4/29/2022
+
 from itertools import permutations
 
 # Finds permutations in order

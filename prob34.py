@@ -1,3 +1,6 @@
+# https://projecteuler.net/problem=34
+# Completed 5/12/2022
+
 import math
 
 totalSum = 0

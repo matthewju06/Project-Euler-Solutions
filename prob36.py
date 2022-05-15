@@ -1,3 +1,6 @@
+# https://projecteuler.net/problem=36
+# Completed 5/13/2022
+
 sum = 0
 
 # Finds if string is palindrome, returns True if true.

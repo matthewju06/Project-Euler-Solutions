@@ -1,3 +1,6 @@
+# https://projecteuler.net/problem=29
+# Completed 5/10/2022
+
 arr = []
 
 # Adding a^b for range 2<=a<=100, 2<=b<=100
