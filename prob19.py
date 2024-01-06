@@ -11,7 +11,7 @@ def daysInMonth():
             return 29
         return 28
 
-count = 0;
+count = 0
 weekday = 2
 
 for year in range(1900, 2001):

@@ -1,11 +1,12 @@
+# https://projecteuler.net/problem=30
+# Completed 9/8/2023
+
 sum = 0
 
-for num in range(1,100000000):
-    temp = 0
-    for letter in str(num):
-        temp += int(letter) ** 5
-    
-    if temp == num:
-        sum += num
-        
+for num in range(2,1000000):
+    tempSum = 0
+    for digit in str(num):
+        tempSum += int(digit) ** 5
+    if num == tempSum:
+        sum += tempSum
 print(sum)
