@@ -1,5 +1,6 @@
 # https://projecteuler.net/problem=35
 # Completed 1/6/2024
+
 import math
 
 def isPrime(num):
