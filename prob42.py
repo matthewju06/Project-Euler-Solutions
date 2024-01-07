@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=39
+# https://projecteuler.net/problem=42
 # Completed 1/6/2024
 
 import string

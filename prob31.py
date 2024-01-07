@@ -10,4 +10,3 @@ def is2(){
     
 }
 
-for i in ran

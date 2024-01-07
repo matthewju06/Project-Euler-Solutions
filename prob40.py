@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=39
+# https://projecteuler.net/problem=40
 # Completed 1/6/2024
 
 current = 1
