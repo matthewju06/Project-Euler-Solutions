@@ -24,7 +24,6 @@ while count < 11:
         if not isPrime(int(currentStr[:i+1])) or not isPrime(int(currentStr[i:])):
             primeTF = False
     if primeTF:
-        print(current)
         sum += current
         count += 1
     current += 1
