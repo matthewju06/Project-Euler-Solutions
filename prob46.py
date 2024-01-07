@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=45
+# https://projecteuler.net/problem=46
 # Completed 1/7/2024
 
 import math
